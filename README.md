@@ -13,5 +13,3 @@ This project is the basic multiplayer game using socket.io to allow the server a
 * Phaser 3 = a JS library
 
 * Heroku = Deploying applications
-
-Online demonstration [
